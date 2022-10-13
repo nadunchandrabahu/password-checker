@@ -1,6 +1,4 @@
 
-*.py
-*.py
 Lib/site-packages/_distutils_hack/__init__.py
 Lib/site-packages/_distutils_hack/__init__.py
 Lib/site-packages/_distutils_hack/__pycache__/__init__.cpython-310.pyc
